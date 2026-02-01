@@ -18,7 +18,7 @@ body {
     margin-bottom: 30px;
   }  
   .jumbotron {
-    background-image: url("/images/Khush\ Capstone.jpg");
+    background-image: url("images/Khush_Capstone.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
